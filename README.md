@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Software Developer and Data Science Enthusiast</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandesai59&label=Profile%20views&color=0e75b6&style=flat" alt="amandesai59" /> </p>
 - 👨‍💻 All of my projects are available at [https://amandesai59.github.io/](https://amandesai59.github.io/)
 
 - 📫 How to reach me **amandesai59@gmail.com**
