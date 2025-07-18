@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amandesai59@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1gm0yCHDPVEaYwrF4dNPpw8fJC9l81OoI/view">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/14gFdKrSVR2Sfod58moMcb4mtBUr3dyqb/view">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
