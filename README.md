@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **amandesai59@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/14gFdKrSVR2Sfod58moMcb4mtBUr3dyqb/view">Resume</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/desaiaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="desaiaman" height="30" width="40" /></a>
